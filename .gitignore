@@ -1,4 +1,8 @@
 *.class
+*.classpath
+*.project
+build.properties
+build.xml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
